@@ -13,6 +13,11 @@ root.render(
       <div>
         <h1>Weather Search Engine</h1>
         <WeatherSearch />
+        <footer>
+          <a href="https://github.com/Natta-Sha/weather-search-engine">
+            My git repository
+          </a>
+        </footer>
       </div>
     </div>
   </StrictMode>
