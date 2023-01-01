@@ -15,7 +15,7 @@ root.render(
         <WeatherSearch />
         <footer>
           <a
-            href="https://github.com/Natta-Sha/weather-search-engine"
+            href="https://github.com/Peopleandlifelover/weather-search-engine"
             target="_blank"
           >
             My git repository
