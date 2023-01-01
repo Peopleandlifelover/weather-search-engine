@@ -18,7 +18,7 @@ root.render(
             href="https://github.com/Peopleandlifelover/weather-search-engine"
             target="_blank"
           >
-            My git repository
+            Open-sourced with Github
           </a>
         </footer>
       </div>
